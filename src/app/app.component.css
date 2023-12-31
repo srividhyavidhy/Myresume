@@ -1,0 +1,41 @@
+.left{
+          background-color: blueviolet ;
+          height: 2000px;
+        
+}
+.right{
+          background-color: bisque;
+          height: 2000px;
+}
+.profile{
+          position: relative;
+          display: flex;
+          flex-direction: column;
+          padding-bottom: 20px;
+          
+}
+img{
+          width: 100px;
+          height: 100px;
+          top: 2px;
+          object-fit: cover;
+          overflow: hidden;
+          border-radius: 50%;
+        
+}
+h4{
+          font-weight: 400;
+          text-transform: uppercase;
+}
+h4 span{
+       font-weight: 200; 
+       text-transform: uppercase;  
+}
+.contact{
+    text-decoration: dotted;
+
+}
+ul li{
+          left: 2px;
+          
+      }
