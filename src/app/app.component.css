@@ -1,12 +1,13 @@
 .left{
-          background-color: blueviolet ;
-          height: 2000px;
+          background-color:blue;
+          height: 1700px;
         
 }
 .right{
-          background-color: bisque;
-          height: 2000px;
+          background-color: gainsboro;
+          height: 1700px;
 }
+
 .profile{
           position: relative;
           display: flex;
@@ -31,11 +32,18 @@ h4 span{
        font-weight: 200; 
        text-transform: uppercase;  
 }
-.contact{
-    text-decoration: dotted;
-
+.bg1{
+    background-color: rgb(55, 143, 179);
+    height: 33px;
+    padding: 2px;
 }
+
 ul li{
           left: 2px;
           
       }
+.bg2{
+       background-color: gray;
+        height: 33px;
+        padding: 2px;
+    }
