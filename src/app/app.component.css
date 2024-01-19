@@ -1,11 +1,11 @@
 .left{
           background-color:blue;
-          height: 1700px;
+          height: 1420px;
         
 }
 .right{
           background-color: gainsboro;
-          height: 1700px;
+          height: 1420px;
 }
 
 .profile{
@@ -16,8 +16,8 @@
           
 }
 img{
-          width: 100px;
-          height: 100px;
+          width: 120px;
+          height: 120px;
           top: 2px;
           object-fit: cover;
           overflow: hidden;
@@ -33,7 +33,7 @@ h4 span{
        text-transform: uppercase;  
 }
 .bg1{
-    background-color: rgb(55, 143, 179);
+    background-color: rgb(69, 86, 93);
     height: 33px;
     padding: 2px;
 }
